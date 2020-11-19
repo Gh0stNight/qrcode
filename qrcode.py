@@ -5,6 +5,7 @@ add=input("The address (link) or message you want to open with the QR Code:")
 url=pyqrcode.create(add)
 
 print("""
+// QmFiYSBha8O8IHlvaw== //
 1-) SVG
 2-) PNG
 """)
